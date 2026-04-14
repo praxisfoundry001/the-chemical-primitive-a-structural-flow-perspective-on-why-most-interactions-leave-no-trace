@@ -48,6 +48,6 @@ Natural companion artifacts in this lane include:
 - *Deriving Density Fields for Lawful Cross-Domain Translation under ¯\(ツ)/¯ with a Field Manual for Domain Interrogation and Comparison*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19561937
 
 Full printable PDF available via DOI link after publication.
